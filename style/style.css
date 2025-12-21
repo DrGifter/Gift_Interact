@@ -1,0 +1,53 @@
+body { 
+    margin: 0; 
+    overflow: hidden; 
+    background: #000; 
+    font-family: 'Segoe UI', sans-serif; 
+    color: white; 
+}
+
+#ui-container {
+    position: absolute; 
+    top: 20px; 
+    left: 20px; 
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.85); 
+    padding: 20px; 
+    border-radius: 15px;
+    backdrop-filter: blur(10px); 
+    border: 1px solid rgba(255, 255, 0, 0.4); 
+    width: 280px;
+}
+
+h2 { 
+    margin: 0 0 10px 0; 
+    color: #ffff00; 
+    font-size: 1.1rem; 
+    text-align: center; 
+    text-transform: uppercase; 
+}
+
+.guide { 
+    font-size: 0.85rem; 
+    line-height: 1.6; 
+    border-top: 1px solid #333; 
+    padding-top: 10px; 
+    color: #eee; 
+}
+
+b { 
+    color: #ffff00; 
+}
+
+#preview-video {
+    position: absolute;
+    bottom: 20px; 
+    right: 20px; 
+    width: 160px; 
+    height: 120px;
+    border-radius: 10px; 
+    transform: scaleX(-1); 
+    border: 1px solid #ffff00; 
+    opacity: 0.6;
+    /* display: none; */
+}
