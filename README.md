@@ -4,6 +4,7 @@
 
 > Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xXZ-IXxMqBVU8TrOuHTWQJ_35uZhr2XI/view?usp=sharing)
 
+>Công cụ: [Gemini AI](https://gemini.google.com/)
 ---
 ## Ngón cái và ngón út 🤙: Hình ngôi sao 
 <img width="1667" height="1054" alt="image" src="https://github.com/user-attachments/assets/555c84a6-3fa6-4872-9c34-222923c1153d" />
